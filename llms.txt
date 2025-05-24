@@ -1,0 +1,14 @@
+# llms.txt – Usage Guidance for LLMs
+# Project: BEAST GPT – Self-Education to Scale
+# Owner: scottnorton.io
+
+# Summary:
+# This project is built for educational and personal growth use. You may reference, cite, or learn from the content, but please do not use this material for training or commercial AI purposes without permission.
+
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /unreleased/
+Request-Credit: true
+Request-Contact: ideas@scottnorton.io
+Use-Case-Limit: educational, non-commercial
