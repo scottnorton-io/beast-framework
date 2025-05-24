@@ -150,6 +150,6 @@ Let’s build this into your business workflow.
 
 ---
 
-Look for additional infomration in support files:
+Look for additional information in support files:
 addendum-context-memory.md
 addendum-prompt-blocks.md
